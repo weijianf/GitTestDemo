@@ -12,6 +12,7 @@ namespace GitTestDemo
             Console.WriteLine("我是SunFlower啊！");
             Console.WriteLine("。。。。。。。ck");
             Console.WriteLine("zzzzzzzzz");
+            Console.WriteLine("bbbbbbb");
         }
     }
 }
